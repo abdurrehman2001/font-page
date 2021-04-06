@@ -1,0 +1,141 @@
+@font-face{
+    font-family: 'Reggae One' ;
+    src: url("Reggae_One/ReggaeOne-Regular.ttf");
+}
+.font{
+    font-family:'Reggae One';
+    background-color:PaleTurquoise;
+}
+.gold{
+    background-color: gold;
+}
+.dharki{
+    background-color: darkkhaki;
+}
+.navajo{
+    background-color: navajowhite;
+}
+.sandy{
+    background-color: sandybrown;
+}
+.gains{
+    background-color: gainsboro;
+}
+.voielt{
+    background-color: violet;
+}
+.cayn{
+    background-color: cyan;
+}
+.sea{
+    background-color: seagreen;
+}
+.orangered{
+    background-color: orangered;
+}
+h1:hover{
+    color:  rgb(255, 41, 41);
+}
+table:hover{
+    color:MediumVioletRed ;
+    width: 1350px;
+}
+h1:hover{
+    width: 900px;
+}
+.head{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 60px;
+    letter-spacing: 60px;
+    
+}
+.trans{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 15px;
+}
+.ezra{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 35px;
+    letter-spacing: 30px;
+}
+.part{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.rihaku{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.late{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.deci{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.mori{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.ariga{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;;
+}
+.london{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.cork{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+}
+.mcm{
+    text-transform: uppercase;
+    letter-spacing: 15px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 20px;
+} 
+.bck{
+    font-family: "none";
+}
+.peidi{
+    background-color: 	PapayaWhip;
+}
+.pic{
+    text-align: center;
+}
